@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/health": {
+      "get": {
+        "tags": [
+          "Channels_Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Message/api/getchannels": {
       "get": {
         "tags": [

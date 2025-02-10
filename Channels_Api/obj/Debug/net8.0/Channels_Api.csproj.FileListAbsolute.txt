@@ -146,3 +146,12 @@ D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\obj\Debug\net8.0\Channels_Api.pdb
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\obj\Debug\net8.0\Channels_Api.genruntimeconfig.cache
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\obj\Debug\net8.0\ref\Channels_Api.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.RuntimeSupport.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\bin\Debug\net8.0\SnapshotRestore.Registry.dll

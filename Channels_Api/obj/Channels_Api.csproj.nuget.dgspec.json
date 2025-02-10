@@ -54,6 +54,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Amazon.Lambda.AspNetCoreServer.Hosting": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
             "Inetlab.SMPP": {
               "target": "Package",
               "version": "[2.9.35, )"

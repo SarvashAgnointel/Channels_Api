@@ -10,6 +10,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+builder.Services.AddAWSLambdaHosting(LambdaEventSource.HttpApi);
+
 builder.Services.AddSingleton<SmppClientService>();
 builder.Services.AddHttpClient();
 builder.Services.AddScoped<IDbHandler, DbHandler>(); // If not already registered
@@ -43,6 +45,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
 app.MapGet("/health", () => Results.Ok("Healthy"));
 
 app.Run();
