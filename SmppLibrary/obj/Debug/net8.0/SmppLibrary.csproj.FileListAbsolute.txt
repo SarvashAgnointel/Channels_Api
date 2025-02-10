@@ -1,0 +1,13 @@
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\bin\Debug\net8.0\SmppLibrary.deps.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\bin\Debug\net8.0\SmppLibrary.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\bin\Debug\net8.0\SmppLibrary.pdb
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.csproj.AssemblyReference.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.AssemblyInfoInputs.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.AssemblyInfo.cs
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.csproj.CoreCompileInputs.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.sourcelink.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\refint\SmppLibrary.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\SmppLibrary.pdb
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\SmppLibrary\obj\Debug\net8.0\ref\SmppLibrary.dll

@@ -14,15 +14,15 @@ builder.Services.AddSingleton<SmppClientService>();
 builder.Services.AddHttpClient();
 builder.Services.AddScoped<IDbHandler, DbHandler>(); // If not already registered
 
-// Allow all origins (for development only)
+var allowedOrigins = builder.Configuration.GetSection("CorsSettings:AllowedOrigins").Get<List<string>>();
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll", policy =>
-    {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
-    });
+    options.AddPolicy("AllowSpecificOrigin",
+        builder => builder.WithOrigins(allowedOrigins.ToArray())
+                          .AllowAnyHeader()
+                          .AllowAnyMethod()
+                          .AllowCredentials());
 });
 
 
