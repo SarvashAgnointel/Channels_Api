@@ -1,4 +1,4 @@
-# Step 1: Build the SmppLibrary and Channels_Api application
+# Step 1: Build the SmppLibrary and Channels_Api application 
 
 # Use the official .NET SDK image to build the application
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
