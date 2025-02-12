@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.Listen(System.Net.IPAddress.Parse("3.68.199.69"), 5000);  // Replace with your IP address and port
+    options.Listen(System.Net.IPAddress.Parse("0.0.0.0"), 5000);  // Replace with your IP address and port
 });
 
 builder.Services.AddAWSLambdaHosting(LambdaEventSource.RestApi);

@@ -1,11 +1,6 @@
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\Channels_Api
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\appsettings.Development.json
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\appsettings.json
-D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\publish\appsettings.Development.json
-D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\publish\appsettings.json
-D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\publish\Channels_Api.deps.json
-D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\publish\Channels_Api.runtimeconfig.json
-D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\publish\Channels_Api.staticwebassets.endpoints.json
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\Channels_Api.dll
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\Channels_Api.deps.json
 D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\Channels_Api\publish\Channels_Api.runtimeconfig.json
